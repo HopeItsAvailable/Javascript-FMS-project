@@ -18,4 +18,7 @@ This project is an implementation of a web-based application designed for toddle
 This project was created by a team of 3 developers, each contributing to different aspects of the application. I primarily created the falling objects game and the main menu.
 
 -------- Usage --------
-To use the application, download the zip file and open the provided HTML file (index.html) in vscode with the p5.vscode extension or run directly in replit. From the main menu, users can select different activities/games to engage with. Use the mouse to interact with the games.
+Running from Visual Studio Code (with p5.vscode extension)
+- Install the p5.vscode extension in Visual Studio Code if not already installed.
+- Open the unzipped project folder in Visual Studio Code.
+- Run the index.html file using the p5.vscode extension. Ensure that all necessary dependencies are correctly configured and accessible within the project folder.
