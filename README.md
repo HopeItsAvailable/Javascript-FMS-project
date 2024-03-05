@@ -3,7 +3,8 @@
 This project is an implementation of a web-based application designed for toddlers aged from 1-3. It aims to provide interactive activities to help toddlers develop various skills while keeping them entertained and focused.
 
 -------- Features --------
-Incentives and Feedback: The application provides positive visual and audio feedback when a task/game is correctly completed. Conversely, negative visual or auditory feedback is given if a task/game is completed incorrectly.
+
+- Incentives and Feedback: The application provides positive visual and audio feedback when a task/game is correctly completed. Conversely, negative visual or auditory feedback is given if a task/game is completed incorrectly.
 
 - Progressive Difficulty: Activities get progressively harder as the child correctly completes tasks. This includes timed activities that increase in speed or contain more complex/longer levels.
 
