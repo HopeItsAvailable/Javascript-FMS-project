@@ -14,8 +14,8 @@ This project is an implementation of a web-based application designed for toddle
 
 - Main Menu Navigation: A main menu containing all games is provided, along with back-buttons in each activity to allow users to easily navigate back to the main menu.
 
-Contributors
+-------- Contributors --------
 This project was created by a team of 3 developers, each contributing to different aspects of the application. I primarily created the falling objects game and the main menu.
 
-Usage
-To use the application, simply open the provided HTML file (index.html) in a web browser. From the main menu, users can select different activities/games to engage with. Use the mouse to interact with the games.
+-------- Usage --------
+To use the application, download the zip file and open the provided HTML file (index.html) in vscode with the p5.vscode extension or run directly in replit. From the main menu, users can select different activities/games to engage with. Use the mouse to interact with the games.
