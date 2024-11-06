@@ -25,3 +25,7 @@ Running from Visual Studio Code (with p5.vscode extension)
 - Install the p5.vscode extension in Visual Studio Code if not already installed.
 - Open the unzipped project folder in Visual Studio Code.
 - Run the index.html file using the p5.vscode extension. Ensure that all necessary dependencies are correctly configured and accessible within the project folder.
+
+Or
+
+Login to replit and click this link: https://replit.com/@FranciscoCarran/FMS-Project?v=1
